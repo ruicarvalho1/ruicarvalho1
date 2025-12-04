@@ -1,7 +1,8 @@
 ## Hey I am Rui Carvalho, I'm junior developer!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruicarvalho1&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruicarvalho1&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruicarvalho1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruicarvalho1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruicarvalho1&theme=github_dark)
 
 
 
