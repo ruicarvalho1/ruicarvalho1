@@ -4,6 +4,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruicarvalho1&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ruicarvalho1&theme=github_dark)
 
+![Rui’s GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=ruicarvalho1&theme=github_dark&show_icons=true)
 
 
 <div style="display: inline_block"><br>
